@@ -1,0 +1,8 @@
+# local scratch: practice copies, generated cases, run outputs
+scratch/
+out/
+*.log
+cases.json
+html.json
+node_modules/
+.DS_Store
